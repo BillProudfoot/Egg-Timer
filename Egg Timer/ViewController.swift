@@ -50,7 +50,7 @@ class ViewController: UIViewController {
     
     @objc func resetTimer () {
         
-        timerLabel = 260
+        timerLabel = 250
         
         displayTime()
         
